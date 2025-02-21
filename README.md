@@ -97,9 +97,6 @@ The SDK collects public web data such as:
 ## Privacy & Security
 - Full GDPR and CCPA compliance
 - No personal data collection
-- No cookie usage
-- Secure cloud infrastructure
-- Third-party web filtering implementation
 
 ## Support
 For implementation guides or partnership inquiries:
